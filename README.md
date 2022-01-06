@@ -1,0 +1,1 @@
+# TestMode [![Build status](https://ci.appveyor.com/api/projects/status/g5nr8m1mnau98wb7?svg=true)](https://ci.appveyor.com/project/Azize87/testmode)
